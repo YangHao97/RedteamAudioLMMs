@@ -40,3 +40,18 @@
 <img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/qwen_line.png" width="50%"><br>
 Qwen-Audio
 </div>
+
+<div align="center">
+<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/qwen2_line.png" width="50%"><br>
+Qwen2-Audio
+</div>
+
+<div align="center">
+<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/s7b_line.png" width="50%"><br>
+SALMONN-7B
+</div>
+
+<div align="center">
+<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/s13b_line.png" width="50%"><br>
+SALMONN-13B
+</div>
