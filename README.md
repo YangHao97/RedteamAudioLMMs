@@ -19,5 +19,5 @@
 ## Settings 1 - Harmful Questions in Text and Audio Format
 
 <div align="center">
-<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/setting1.png" width="80%">
+<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/setting1.png" width="98%">
 </div>
