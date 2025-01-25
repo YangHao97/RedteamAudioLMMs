@@ -35,3 +35,8 @@
 **Random-standard.** For each question, we randomly generate a sequence of values from  $\mathcal{N}(0,1)$.
 
 **No audio input.** We directly input the text of harmful questions into audio LMMs without audio input (as same as ① in setting 1).
+
+<div align="center">
+<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/qwen_line.png" width="50%"><br>
+Qwen-Audio
+</div>
