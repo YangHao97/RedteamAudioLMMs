@@ -71,6 +71,6 @@ Jailbreak Template
 </div>
 
 <div align="center">
-<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/jailbreak.png" width="50%"><br>
+<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/jailbreak.png" width="85%"><br>
 Jailbreaking Results
 </div>
