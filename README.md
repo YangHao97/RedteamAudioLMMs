@@ -55,3 +55,22 @@ SALMONN-7B
 <img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/s13b_line.png" width="50%"><br>
 SALMONN-13B
 </div>
+
+## Setting 3 - Speech-specific Jailbreak
+**Plain text harmful question.** We directly input the harmful questions without audio input. 
+
+**Text jailbreak.** We decompose the harmful words into letters and place them (in the form of text) at the beginning of the jailbreak prompt. 
+
+**Word reading.** We directly convert the harmful word into speech as the audio input instead of letters.
+
+**Proposed.** We decompose harmful words into letters concealed in the audio input and then request the model to concatenate the letters from the audio into a word and use this word to complete the question in prompt for responding.
+
+<div align="center">
+<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/Jailbreak_template.png" width="50%"><br>
+Jailbreak Template
+</div>
+
+<div align="center">
+<img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/jailbreak.png" width="50%"><br>
+Jailbreaking Results
+</div>
