@@ -7,7 +7,7 @@
 <p align="center">
   📝 Official Github For: <a href="https://arxiv.org/abs/2410.23861">Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models</a> <br>
   🏅 Red teaming and Benchmarking the Safety of Audio LLMs in Three Settings <br>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScWj8J3IVTi8Tr65FVS3Ht-g5gcf6g5FA2eTeRcGKt145d84w/viewform?usp=dialog">📅 Access our data</a>
+  📅 <a href="https://docs.google.com/forms/d/e/1FAIpQLScWj8J3IVTi8Tr65FVS3Ht-g5gcf6g5FA2eTeRcGKt145d84w/viewform?usp=dialog">Access our data</a>
 </p>
 
 ## Update Plans
