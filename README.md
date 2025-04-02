@@ -75,3 +75,6 @@ Jailbreak Template
 <img src="https://github.com/YangHao97/RedteamAudioLMMs/blob/main/resources/jailbreak.png" width="85%"><br>
 Jailbreaking Results
 </div>
+
+## License
+This work is released under [MIT License](https://github.com/YangHao97/RedteamAudioLMMs/blob/main/LICENSE).
