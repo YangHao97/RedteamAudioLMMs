@@ -78,3 +78,39 @@ Jailbreaking Results
 
 ## License
 This work is released under [MIT License](https://github.com/YangHao97/RedteamAudioLMMs/blob/main/LICENSE).
+
+## Dataset
+The dataset used in our paper can be find here: [Access our data](https://docs.google.com/forms/d/e/1FAIpQLScWj8J3IVTi8Tr65FVS3Ht-g5gcf6g5FA2eTeRcGKt145d84w/viewform?usp=dialog)
+
+We create our audio dataset used in experiments based on the following work:
+```
+@misc{chao2023jailbreaking,
+      title={Jailbreaking Black Box Large Language Models in Twenty Queries}, 
+      author={Patrick Chao and Alexander Robey and Edgar Dobriban and Hamed Hassani and George J. Pappas and Eric Wong},
+      year={2023},
+      eprint={2310.08419},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+```
+@misc{zou2023universal,
+      title={Universal and Transferable Adversarial Attacks on Aligned Language Models}, 
+      author={Andy Zou and Zifan Wang and J. Zico Kolter and Matt Fredrikson},
+      year={2023},
+      eprint={2307.15043},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+## Citation
+```
+@article{yang2024audio,
+  title={Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models},
+  author={Yang, Hao and Qu, Lizhen and Shareghi, Ehsan and Haffari, Gholamreza},
+  journal={arXiv preprint arXiv:2410.23861},
+  year={2024}
+}
+```
