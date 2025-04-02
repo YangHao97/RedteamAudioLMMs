@@ -82,7 +82,7 @@ This work is released under [MIT License](https://github.com/YangHao97/RedteamAu
 ## Dataset
 The dataset used in our paper can be find here: [Access our data](https://docs.google.com/forms/d/e/1FAIpQLScWj8J3IVTi8Tr65FVS3Ht-g5gcf6g5FA2eTeRcGKt145d84w/viewform?usp=dialog)
 
-Audio dataset of this work is generated from [Figstep](https://github.com/ThuCCSLab/FigStep) and [Refined Advbench](https://github.com/patrickrchao/JailbreakingLLMs)
+Audio dataset of this work is generated from [Figstep](https://github.com/ThuCCSLab/FigStep) and [PAIR](https://github.com/patrickrchao/JailbreakingLLMs), check licenses [here](https://github.com/YangHao97/RedteamAudioLMMs/blob/main/NOTICE).
 ```
 @misc{chao2023jailbreaking,
       title={Jailbreaking Black Box Large Language Models in Twenty Queries}, 
