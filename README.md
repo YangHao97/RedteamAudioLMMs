@@ -95,13 +95,13 @@ Audio dataset of this work is generated from [Figstep](https://github.com/ThuCCS
 ```
 
 ```
-@misc{zou2023universal,
-      title={Universal and Transferable Adversarial Attacks on Aligned Language Models}, 
-      author={Andy Zou and Zifan Wang and J. Zico Kolter and Matt Fredrikson},
+@misc{gong2023figstep,
+      title={FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts}, 
+      author={Yichen Gong and Delong Ran and Jinyuan Liu and Conglei Wang and Tianshuo Cong and Anyu Wang and Sisi Duan and Xiaoyun Wang},
       year={2023},
-      eprint={2307.15043},
+      eprint={2311.05608},
       archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      primaryClass={cs.CR}
 }
 ```
 
